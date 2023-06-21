@@ -3,3 +3,5 @@
 ### Grüne Ampel / Green Traffic light
 #### Vorne / Front side
 
+info panel: 4001
+
