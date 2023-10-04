@@ -1,7 +1,3 @@
 # Codes
-## Product ID: 36
-### Grüne Ampel / Green Traffic light
-#### Vorne / Front side
-
-info panel: 4001
-
+## Product ID: ???
+### 1st page
